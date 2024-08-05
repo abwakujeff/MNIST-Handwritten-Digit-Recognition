@@ -32,5 +32,5 @@ To run this project, you need to have Python installed along with the following 
    Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/yourusername/mnist-digit-recognition.git
+   git clone https://   git@github.com:abwakujeff/MNIST-Handwritten-Digit-Recognition.git
    cd mnist-digit-recognition
